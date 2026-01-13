@@ -30,5 +30,5 @@ A hands-on AWS project where a static portfolio website is hosted using Amazon S
 
 Successfully hosted a live static website using AWS S3.
 
-
+Dev--https://dev.to/irfanpasha/hosting-a-static-portfolio-website-on-aws-s3-using-iam-beginner-project-3ao4
 
